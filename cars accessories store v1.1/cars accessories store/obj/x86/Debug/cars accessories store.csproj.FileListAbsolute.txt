@@ -1,0 +1,99 @@
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form1.resources
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Properties.Resources.resources
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.GenerateResource.Cache
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form6.resources
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form5.resources
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form4.resources
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form2.resources
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form3.resources
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form7.resources
+E:\mina melad\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe.config
+E:\mina melad\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe
+E:\mina melad\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.pdb
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.exe
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.pdb
+E:\mina melad\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csprojResolveAssemblyReference.cache
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe.config
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.exe
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.pdb
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.pdb
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csprojResolveAssemblyReference.cache
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form6.resources
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form5.resources
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form4.resources
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form1.resources
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form2.resources
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form3.resources
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form7.resources
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Properties.Resources.resources
+C:\Users\Mina Milad\Desktop\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.GenerateResource.Cache
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe.config
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.exe
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.pdb
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.pdb
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csprojResolveAssemblyReference.cache
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form6.resources
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form5.resources
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form4.resources
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form1.resources
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form2.resources
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form3.resources
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form7.resources
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Properties.Resources.resources
+E:\mina melad\trace cars accessories store\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.GenerateResource.Cache
+D:\Project\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe.config
+D:\Project\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe
+D:\Project\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.pdb
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csprojAssemblyReference.cache
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form6.resources
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form5.resources
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form4.resources
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form1.resources
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form2.resources
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form3.resources
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Form7.resources
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Properties.Resources.resources
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.GenerateResource.cache
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.CoreCompileInputs.cache
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.exe
+D:\Project\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.pdb
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe.config
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.pdb
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csprojAssemblyReference.cache
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Properties.Resources.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.GenerateResource.cache
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.exe
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.pdb
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe.config
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.exe
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\bin\Debug\برنامج القرش.pdb
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csprojAssemblyReference.cache
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Properties.Resources.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.GenerateResource.cache
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars accessories store.csproj.CoreCompileInputs.cache
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.exe
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\برنامج القرش.pdb
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.WarehouseReport.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.BillReport.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.NewBill.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Login.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.RegItems.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.EditWarehouse.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.BillItems.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Ledger.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.AccountDetails.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.RegLedgerAcc.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.WarehouseReport.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.BillReport.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.NewBill.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Login.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.RegItems.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.EditWarehouse.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.BillItems.resources
+C:\Users\Administrator\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.Ledger.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.AccountDetails.resources
+C:\Users\minam.admin\Google Drive\HmayaTECH\SW Dev\cars accessories store\cars accessories store\obj\x86\Debug\cars_accessories_store.RegLedgerAcc.resources
